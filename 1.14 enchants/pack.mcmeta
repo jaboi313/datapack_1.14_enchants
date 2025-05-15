@@ -1,7 +1,6 @@
 {
 	"pack": {
-		"pack_format": 48,
-		"supported_formats": [48,71],
+		"pack_format": 71,
 		"description": "1.14 enchants are back!"
 	}
 }
